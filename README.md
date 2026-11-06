@@ -43,7 +43,7 @@ Type a weapon name and Riven Scoper looks at its current riven listings.
 
 - **The verdict** at the top: **Worth rolling**, **Promising**, **Maybe**, **Skip it** or **Not worth rolling**, with a short explanation.
   - **Real demand check:** the verdict also uses DE's weekly in-game trade data. If a weapon has plenty of high listings but almost nobody actually buys its rivens, the app says **Not worth rolling** and explains why.
-- **Real trade demand:** a small chart of how often the weapon's rolled rivens were traded in game over the last four weeks. 100 means the most-traded riven type that week.
+- **Real trade demand:** a small chart of how often the weapon's rolled rivens were traded in game over the last six weeks. 100 means the most-traded riven type that week.
 - **Listings summary:** how many listings there are, how many sellers are online, and the low, median and high prices.
 - **God roll and sell price:** the best stat combinations, the best negative to have, and a likely sale price.
   - The app first shows a quick estimate. It then checks the live market for the top combinations, which takes about a minute, and shows the time remaining.
@@ -68,7 +68,7 @@ With an asking price, you get a verdict: **STEAL**, **UNDERPRICED**, **FAIR**, *
 ### Pulse: what the market is doing
 
 - **Market board:** weapons ranked over 24 hours, 7 days or 30 days, by most listings, top gainers, top losers, most expensive or cheapest.
-- **Top listings:** the highest-priced rivens with sellers online right now.
+- **Popular weapons:** recent listings for the 15 weapons whose rivens DE recorded the most in-game trades for last week, newest first, with each weapon's demand score.
 - **Most recent listings:** the newest rivens posted on warframe.market. This refreshes every 5 minutes.
 
 ### Collection: your rivens
