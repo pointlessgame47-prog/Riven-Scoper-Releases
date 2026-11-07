@@ -4,9 +4,13 @@
 
 > Riven Scoper is a free fan project. It is not affiliated with Digital Extremes or warframe.market.
 
+### 🌐 No Android phone? Use the website: **[rivenscoper.com](https://rivenscoper.com)**
+
+The website is the same app, with nothing to install. It works on iPhone, iPad, PC and Mac, and has everything the app has: weapon checks, the Analyzer, Pulse, your collection, warframe.market sign-in, listing and Messages. On a phone, use your browser's **Add to Home Screen** to open it like an app.
+
 ---
 
-## Install
+## Install the Android app
 
 1. On your Android phone, open the **[latest release](https://github.com/pointlessgame47-prog/riven-scoper-releases/releases/latest)**.
 2. Under **Assets**, tap the `.apk` file to download it.
@@ -31,6 +35,7 @@ When you first open the app, you can sign in with your warframe.market account o
 - **Without signing in** you can use everything except posting listings and messages.
 - **Signing in** lets you list your rivens for sale and answer warframe.market messages from the app.
 - Your password goes only to warframe.market and is never saved. The app keeps only the sign-in token warframe.market gives back, in your phone's secure storage.
+- **On the website,** your password passes securely through rivenscoper.com to warframe.market and is never stored. The sign-in token is kept in a secure cookie that only rivenscoper.com can use.
 - Sign in or out any time from the **☰** menu.
 
 ---
@@ -69,7 +74,7 @@ With an asking price, you get a verdict: **STEAL**, **UNDERPRICED**, **FAIR**, *
 
 - **Market board:** weapons ranked over 24 hours, 7 days or 30 days, by most listings, top gainers, top losers, most expensive or cheapest.
 - **Popular weapons:** recent listings for the 15 weapons whose rivens DE recorded the most in-game trades for last week, newest first, with each weapon's demand score.
-- **Most recent listings:** the newest rivens posted on warframe.market. This refreshes every 5 minutes.
+- **Most recent listings:** the newest rivens posted on warframe.market. This refreshes every minute while you are looking at it.
 
 ### Collection: your rivens
 
