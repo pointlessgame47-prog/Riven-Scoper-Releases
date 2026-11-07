@@ -44,7 +44,7 @@ When you're signed in, your Collection and saved Analyzer rivens are kept with y
 
 - The synced copy is stored encrypted, and only your signed-in account can read it back.
 - Changes made on two devices are combined.
-- Turn sync off, or delete the synced copy, under **☰ → Dev tools → Back up and restore**.
+- Turn sync off, or delete the synced copy, in the **Collection sync** box at the top of the Collection tab.
 
 ---
 
@@ -87,6 +87,7 @@ With an asking price, you get a verdict: **STEAL**, **UNDERPRICED**, **FAIR**, *
 ### Collection: your rivens
 
 - Browse every weapon that can have a riven. Tick the weapons you own, star your favorites, and use the filters to narrow the list.
+- **Collection sync** at the top shows when your collection last synced to your account, with **Sync now** and a button to turn sync off and delete the synced copy.
 - Tap **Add riven** to save a riven you have: its stats, values and reroll count. Each saved riven gets its own price check.
 - **Selling, when signed in:**
   - **List:** set a price, preview the listing, then post it to warframe.market.
@@ -121,7 +122,7 @@ When you're signed in, this tab shows your warframe.market conversations.
 - **App**
   - **Dev tools:**
     - your version, and a button to check for updates;
-    - **Back up and restore**, which copies your collection and settings as text you can save and restore later, plus the **Collection sync** settings.
+    - **Back up and restore**, which copies your collection and settings as text you can save and restore later.
   - **Acknowledgements:** credits for the data sources and open-source tools the app uses.
   - **Changelog:** what changed in each update.
 
@@ -144,7 +145,7 @@ The Android back button steps back through the app: it closes the menu, leaves a
 | **"Sign-in expired"** | Sign in again from the ☰ menu. |
 | **The god roll list keeps saying "Quick estimate"** | The live check takes about a minute. If it stops with an error, wait a few minutes or tap **Recheck**. |
 | **No listings for a weapon** | warframe.market may be busy. Tap the refresh button next to the search box. |
-| **My collection isn't on my other device** | Sign in to the same warframe.market account on both, then tap **Sync now** under ☰ → Dev tools → Back up and restore. |
+| **My collection isn't on my other device** | Sign in to the same warframe.market account on both, then tap **Sync now** at the top of the Collection tab. |
 
 ## Credits
 
