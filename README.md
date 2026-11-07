@@ -32,11 +32,19 @@ You can also check for updates yourself under **☰ → Dev tools → Version an
 
 When you first open the app, you can sign in with your warframe.market account or **Continue without signing in**.
 
-- **Without signing in** you can use everything except posting listings and messages.
+- **Without signing in** you can use everything except posting listings, messages and collection sync.
 - **Signing in** lets you list your rivens for sale and answer warframe.market messages from the app.
 - Your password goes only to warframe.market and is never saved. The app keeps only the sign-in token warframe.market gives back, in your phone's secure storage.
 - **On the website,** your password passes securely through rivenscoper.com to warframe.market and is never stored. The sign-in token is kept in a secure cookie that only rivenscoper.com can use.
 - Sign in or out any time from the **☰** menu.
+
+### Your collection follows you
+
+When you're signed in, your Collection and saved Analyzer rivens are kept with your warframe.market account, so they're there on the app, on the website and on any new phone.
+
+- The synced copy is stored encrypted, and only your signed-in account can read it back.
+- Changes made on two devices are combined.
+- Turn sync off, or delete the synced copy, under **☰ → Dev tools → Back up and restore**.
 
 ---
 
@@ -113,8 +121,9 @@ When you're signed in, this tab shows your warframe.market conversations.
 - **App**
   - **Dev tools:**
     - your version, and a button to check for updates;
-    - **Back up and restore**, which copies your collection and settings as text you can save and restore later. Do this before reinstalling the app.
+    - **Back up and restore**, which copies your collection and settings as text you can save and restore later, plus the **Collection sync** settings.
   - **Acknowledgements:** credits for the data sources and open-source tools the app uses.
+  - **Changelog:** what changed in each update.
 
 The Android back button steps back through the app: it closes the menu, leaves an open chat, and returns to the Weapon tab before it closes the app.
 
@@ -135,6 +144,7 @@ The Android back button steps back through the app: it closes the menu, leaves a
 | **"Sign-in expired"** | Sign in again from the ☰ menu. |
 | **The god roll list keeps saying "Quick estimate"** | The live check takes about a minute. If it stops with an error, wait a few minutes or tap **Recheck**. |
 | **No listings for a weapon** | warframe.market may be busy. Tap the refresh button next to the search box. |
+| **My collection isn't on my other device** | Sign in to the same warframe.market account on both, then tap **Sync now** under ☰ → Dev tools → Back up and restore. |
 
 ## Credits
 
