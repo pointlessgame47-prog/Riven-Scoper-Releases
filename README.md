@@ -68,14 +68,14 @@ Check what a specific riven is worth, or whether someone's asking price is fair.
 
 You can also paste a warframe.market listing link and tap **Load listing**.
 
-With an asking price, you get a verdict: **STEAL**, **UNDERPRICED**, **FAIR**, **ELEVATED** or **OVERPRICED**. You also see similar listings, so you can compare. Tap one to see it on warframe.market.
+With an asking price, you get a verdict: **STEAL**, **UNDERPRICED**, **FAIR**, **ELEVATED** or **OVERPRICED**. You also see similar listings, so you can compare. Tap **WFM ↗** on one to see it on warframe.market.
 
 ### Pulse: what the market is doing
 
 - **Market board:** weapons ranked over 24 hours, 7 days or 30 days, by most listings, top gainers, top losers, most expensive or cheapest.
 - **Popular weapons:** recent listings for the 15 weapons whose rivens DE recorded the most in-game trades for last week, with each weapon's demand score. The menu at the top right sorts them by newest, price or demand.
 - **Most recent listings:** the newest rivens posted on warframe.market. This refreshes every minute while you are looking at it. Tick **Popular weapons only** to see just those 15 weapons.
-- **Tap a listing** in Popular weapons or Most recent listings to see it on warframe.market, or tap **Analyze weapon** to check that weapon here.
+- Each listing in Popular weapons and Most recent listings has a **WFM ↗** button that opens it on warframe.market, and an **Analyze weapon** link that checks that weapon here.
 
 ### Collection: your rivens
 
