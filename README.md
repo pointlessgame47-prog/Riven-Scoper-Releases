@@ -26,7 +26,7 @@ You only install by hand once. After that, the app updates itself:
 - The first time, Android asks you to turn on **Allow from this source** for Riven Scoper. Turn it on and come back to the app.
 - Your collection and settings stay after updating.
 
-You can also check for updates yourself under **☰ → Dev tools → Version and updates**.
+You can also check for updates yourself under **☰ → Changelog**, which shows your version and a **Check for updates** button.
 
 ## Signing in (optional)
 
@@ -112,11 +112,9 @@ When you're signed in, this tab shows your warframe.market conversations.
 
     It refreshes every minute while the page is open.
 - **App**
-  - **Dev tools:**
-    - your version, and a button to check for updates;
-    - **Back up and restore**, which copies your collection and settings as text you can save and restore later.
-  - **Acknowledgements:** credits for the data sources and open-source tools the app uses.
-  - **Changelog:** what changed in each update.
+  - **Changelog:** what changed in each update, plus your version and a button to check for updates in the app.
+  - **Acknowledgements:** credits for the data sources and open-source tools the app uses, and how visits are counted anonymously.
+  - **Dev tools:** tools for the Riven Scoper team, including Back up and restore. They need the team's dev tools password.
 
 The Android back button steps back through the app: it closes the menu, leaves an open chat, and returns to the Weapon tab before it closes the app.
 
@@ -132,12 +130,12 @@ The Android back button steps back through the app: it closes the menu, leaves a
 
 | Problem | Fix |
 |---|---|
-| **"App not installed"** when updating | Your installed copy was signed differently, which can happen with very early builds. Back up in ☰ → Dev tools, uninstall, install the latest release, then restore. You only need to do this once. |
+| **"App not installed"** when updating | Your installed copy was signed differently, which can happen with very early builds. Uninstall, then install the latest release. You only need to do this once. Sign in again and open the Collection tab to import the rivens you have listed on warframe.market. Other collection entries are lost unless the team backs them up for you first. |
 | **"Harmful app blocked"** from Play Protect | Tap **Install anyway**. It's a general warning for apps outside the Play Store. |
 | **"Sign-in expired"** | Sign in again from the ☰ menu. |
 | **The god roll list keeps saying "Quick estimate"** | The live check takes about a minute. If it stops with an error, wait a few minutes or tap **Recheck**. |
 | **No listings for a weapon** | warframe.market may be busy. Tap the refresh button next to the search box. |
-| **My rivens aren't in my collection on another device** | Sign in to the same warframe.market account there and open the Collection tab. Rivens you have listed on warframe.market are imported. Rivens you haven't listed don't carry over: use **☰ → Dev tools → Back up and restore** to move those. |
+| **My rivens aren't in my collection on another device** | Sign in to the same warframe.market account there and open the Collection tab. Rivens you have listed on warframe.market are imported. Rivens you haven't listed don't carry over. |
 
 ## Credits
 
