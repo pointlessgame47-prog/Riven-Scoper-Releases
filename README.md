@@ -37,6 +37,7 @@ When you first open the app, you can sign in with your warframe.market account o
 - Your password goes only to warframe.market and is never saved. The app keeps only the sign-in token warframe.market gives back, in your phone's secure storage.
 - **On the website,** your password passes securely through rivenscoper.com to warframe.market and is never stored. The sign-in token is kept in a secure cookie that only rivenscoper.com can use.
 - Sign in or out any time from the **☰** menu.
+- **Your warframe.market status:** when you're signed in, your name at the top right opens a status menu. Set **Online**, **Online in game** or **Invisible**, so buyers know whether to message you. Choose how long to keep it (30 minutes to 4 hours) and you'll switch to Invisible after that, or keep it while the app is open. warframe.market only shows you as online while Riven Scoper, its site or its app is open. The menu also links to your warframe.market settings and signs you out.
 
 ---
 
