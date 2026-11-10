@@ -32,10 +32,11 @@ You can also check for updates yourself under **☰ → Changelog**, which shows
 
 When you first open the app, you can sign in with your warframe.market account or **Continue without signing in**.
 
-- **Without signing in** you can use everything except posting listings, importing your listings and messages.
-- **Signing in** lets you import your warframe.market riven listings into your collection, list rivens for sale and answer warframe.market messages from the app.
+- **Without signing in** you can use everything except saving your Collection to your account, posting listings, importing your listings and messages.
+- **Signing in** saves your Collection to your account so it's on every device, lets you import your warframe.market riven listings, list rivens for sale and answer warframe.market messages.
 - Your password goes only to warframe.market and is never saved. The app keeps only the sign-in token warframe.market gives back, in your phone's secure storage.
 - **On the website,** your password passes securely through rivenscoper.com to warframe.market and is never stored. The sign-in token is kept in a secure cookie that only rivenscoper.com can use.
+- **Saving your Collection:** to know which account to save under, the app or website shows rivenscoper.com your sign-in token, and rivenscoper.com asks warframe.market which account it belongs to. The token is never stored.
 - Sign in or out any time from the **☰** menu.
 - **Your warframe.market status:** when you're signed in, the top of the **☰** menu shows your account and status. Set **Online**, **Online in game** or **Invisible**, so buyers know whether to message you. Choose how long to keep it (30 minutes to 4 hours) and you'll switch to Invisible after that, or keep it while the app is open. warframe.market only shows you as online while Riven Scoper, its site or its app is open. It also links to your warframe.market settings, and Sign out is just below.
 
@@ -80,14 +81,17 @@ With an asking price, you get a verdict: **STEAL**, **UNDERPRICED**, **FAIR**, *
 
 ### Collection: your rivens
 
+- **Saved to your account:** while you're signed in, your Collection (owned weapons, every riven you've added or saved, favorites and listing records) and the rivens you save in the Analyzer are saved to your warframe.market account on the Riven Scoper server, encrypted. Sign in on another phone or on the website and it's all there. If you change things on two devices, both changes are kept. **Your account → How saving and importing work** lets you turn saving off for a device or delete the saved copy.
 - Browse every weapon that can have a riven. Tick the weapons you own, star your favorites, and use the filters to narrow the list.
+- **Live on WFM** lists every riven you have listed on warframe.market right now, each with a **WFM ↗** button. Every riven shows where it stands: **Live** with its price and a gold edge, **Hidden** (listed but hidden from buyers), **In app only**, **Sold** or **Listing closed**. Deleting a riven that's still listed takes the listing down too: tap **Delete**, then tap again to remove the listing and delete. Weapons show how many of their rivens are live, and **Filter → Listed on WFM** narrows the list to them.
 - **Import from warframe.market**, at the top, brings in the rivens you have listed on warframe.market when you're signed in. Their weapons are marked as owned, and each riven is added with its stats, name, rerolls, rank, mastery, polarity, price and listing, ready to reprice or mark sold. It runs when you open the tab, and **Import my listings now** runs it again. Rivens you've sold or taken down on warframe.market are marked as removed.
 - Tap **Add riven** to save a riven you have: its stats, values and reroll count. Each saved riven gets its own price check.
 - **Selling, when signed in:**
   - **List:** set a price, preview the listing, then post it to warframe.market.
   - **Change price:** update the price of a riven you've listed.
   - **Sold:** mark it sold and record what it sold for.
-  - **Remove:** take the listing down. Tap twice to confirm.
+  - **Remove:** take the listing down and keep the riven. Tap twice to confirm.
+  - **Delete:** remove the riven from your Collection. If it's still listed, this takes the listing down too.
 
 ### Messages: warframe.market chat
 
@@ -133,12 +137,12 @@ The Android back button steps back through the app: it closes the menu, leaves a
 
 | Problem | Fix |
 |---|---|
-| **"App not installed"** when updating | Your installed copy was signed differently, which can happen with very early builds. Uninstall, then install the latest release. You only need to do this once. Sign in again and open the Collection tab to import the rivens you have listed on warframe.market. Other collection entries are lost unless the team backs them up for you first. |
+| **"App not installed"** when updating | Your installed copy was signed differently, which can happen with very early builds. Uninstall, then install the latest release. You only need to do this once. Sign in again and your saved Collection loads from your account. |
 | **"Harmful app blocked"** from Play Protect | Tap **Install anyway**. It's a general warning for apps outside the Play Store. |
 | **"Sign-in expired"** | Sign in again from the ☰ menu. |
 | **The god roll list keeps saying "Quick estimate"** | The live check takes about a minute. If it stops with an error, wait a few minutes or tap **Recheck**. |
 | **No listings for a weapon** | warframe.market may be busy. Tap the refresh button next to the search box. |
-| **My rivens aren't in my collection on another device** | Sign in to the same warframe.market account there and open the Collection tab. Rivens you have listed on warframe.market are imported. Rivens you haven't listed don't carry over. |
+| **My rivens aren't in my collection on another device** | Sign in to the same warframe.market account on both, and check **Collection → Your account** says it's saved. Tap **Sync now** to load the latest. |
 
 ## Credits
 
