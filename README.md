@@ -6,7 +6,7 @@
 
 ### 🌐 No Android phone? Use the website: **[rivenscoper.com](https://rivenscoper.com)**
 
-The website is the same app, with nothing to install. It works on iPhone, iPad, PC and Mac, and has everything the app has: weapon checks, the Analyzer, Pulse, your collection, warframe.market sign-in, listing and Messages. On a PC or a tablet in landscape, long pages use two columns. On a phone, use your browser's **Add to Home Screen** to open it like an app.
+The website is the same app, with nothing to install. It works on iPhone, iPad, PC and Mac, and has everything the app has: weapon checks, the Analyzer, Trends, your collection, warframe.market sign-in, listing and Messages. On a PC or a tablet in landscape, long pages use two columns. On a phone, use your browser's **Add to Home Screen** to open it like an app.
 
 ---
 
@@ -37,7 +37,7 @@ When you first open the app, you can sign in with your warframe.market account o
 - Your password goes only to warframe.market and is never saved. The app keeps only the sign-in token warframe.market gives back, in your phone's secure storage.
 - **On the website,** your password passes securely through rivenscoper.com to warframe.market and is never stored. The sign-in token is kept in a secure cookie that only rivenscoper.com can use.
 - Sign in or out any time from the **☰** menu.
-- **Your warframe.market status:** when you're signed in, your name at the top right opens a status menu. Set **Online**, **Online in game** or **Invisible**, so buyers know whether to message you. Choose how long to keep it (30 minutes to 4 hours) and you'll switch to Invisible after that, or keep it while the app is open. warframe.market only shows you as online while Riven Scoper, its site or its app is open. The menu also links to your warframe.market settings and signs you out.
+- **Your warframe.market status:** when you're signed in, the top of the **☰** menu shows your account and status. Set **Online**, **Online in game** or **Invisible**, so buyers know whether to message you. Choose how long to keep it (30 minutes to 4 hours) and you'll switch to Invisible after that, or keep it while the app is open. warframe.market only shows you as online while Riven Scoper, its site or its app is open. It also links to your warframe.market settings, and Sign out is just below.
 
 ---
 
@@ -71,9 +71,9 @@ You can also paste a warframe.market listing link and tap **Load listing**.
 
 With an asking price, you get a verdict: **STEAL**, **UNDERPRICED**, **FAIR**, **ELEVATED** or **OVERPRICED**. You also see similar listings, so you can compare. Tap **WFM ↗** on one to see it on warframe.market.
 
-### Pulse: what the market is doing
+### Trends: what the market is doing
 
-- **Market board:** weapons ranked over 24 hours, 7 days or 30 days, by most listings, top gainers, top losers, most expensive or cheapest.
+- **Rankings:** weapons ranked over 24 hours, 7 days or 30 days, by most listings, top gainers, top losers, most expensive or cheapest. Gainers and losers compare listings posted in that period with the period before, so the 7-day and 30-day changes appear once Riven Scoper has watched the market long enough, and the tab shows the date they start.
 - **Popular weapons:** recent listings for the 15 weapons whose rivens DE recorded the most in-game trades for last week, with each weapon's demand score. The menu at the top right sorts them by newest, price or demand.
 - **Most recent listings:** the newest rivens posted on warframe.market. This refreshes every minute while you are looking at it. Tick **Popular weapons only** to see just those 15 weapons.
 - Each listing in Popular weapons and Most recent listings has a **WFM ↗** button that opens it on warframe.market, and an **Analyze weapon** link that checks that weapon here.
@@ -115,6 +115,7 @@ When you're signed in, this tab shows your warframe.market conversations.
     It refreshes every minute while the page is open.
 - **App**
   - **Changelog:** what changed in each update, plus your version and a button to check for updates in the app.
+  - **Our process:** exactly where Riven Scoper's data comes from and how every price, score and verdict is worked out.
   - **Acknowledgements:** credits for the data sources and open-source tools the app uses, and how visits are counted anonymously.
   - **Dev tools:** tools for the Riven Scoper team, including Back up and restore. They need the team's dev tools password.
 
