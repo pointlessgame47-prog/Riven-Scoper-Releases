@@ -64,7 +64,7 @@ Type a weapon name and Riven Scoper looks at its current riven listings.
 
 Check what a specific riven is worth, or whether someone's asking price is fair.
 
-1. Pick the weapon and its 2 or 3 positive stats.
+1. Pick the weapon and its 2 or 3 positive stats. Start typing a name and tap a suggestion, or press **Enter** to take the first one.
 2. Optionally add the negative stat, the reroll count and the asking price.
 3. Tap **Analyze riven**.
 
@@ -130,7 +130,7 @@ The Android back button steps back through the app: it closes the menu, leaves a
 
 ## Good to know
 
-- **Prices are asking prices.** warframe.market listings show what sellers want, not what they got. The app removes stale and bait listings and leans on cautious estimates, but treat prices as a guide.
+- **Prices are asking prices.** warframe.market listings show what sellers want, not what they got. The app removes stale and joke listings (like 99,999p) and leans on cautious estimates, but treat prices as a guide. Real high-end listings are kept even on weapons flooded with 10p rivens.
 - **PC data.** Prices, trade demand and World State are for the PC platform.
 - **Be patient with the market check.** warframe.market limits how often apps can search, so the app paces its requests to stay a good neighbour.
 
