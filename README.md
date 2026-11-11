@@ -85,7 +85,7 @@ With an asking price, you get a verdict: **STEAL**, **UNDERPRICED**, **FAIR**, *
 - Browse every weapon that can have a riven. Tick the weapons you own, star your favorites, and use the filters to narrow the list.
 - **Live on WFM** lists every riven you have listed on warframe.market right now, each with a **WFM ↗** button. Every riven shows where it stands: **Live** with its price and a gold edge, **Hidden** (listed but hidden from buyers), **In app only**, **Sold** or **Listing closed**. Deleting a riven that's still listed takes the listing down too: tap **Delete**, then tap again to remove the listing and delete. Weapons show how many of their rivens are live, and **Filter → Listed on WFM** narrows the list to them.
 - **Import from warframe.market**, at the top, brings in the rivens you have listed on warframe.market when you're signed in. Their weapons are marked as owned, and each riven is added with its stats, name, rerolls, rank, mastery, polarity, price and listing, ready to reprice or mark sold. It runs when you open the tab, and **Import my listings now** runs it again. Rivens you've sold or taken down on warframe.market are marked as removed.
-- Tap **Add riven** to save a riven you have: its stats, values and reroll count. Each saved riven gets its own price check.
+- Tap **Add riven** to save a riven you have: its stats, values and reroll count. You don't need to type its name: pick the stats and the app lists every name they can make, most likely first, or choose **Other** to type it. Each saved riven gets its own price check.
 - **Selling, when signed in:**
   - **List:** set a price, preview the listing, then post it to warframe.market.
   - **Change price:** update the price of a riven you've listed.
@@ -117,6 +117,7 @@ When you're signed in, this tab shows your warframe.market conversations.
     - Nightwave acts and any running events.
 
     It refreshes every minute while the page is open.
+  - **Riven guide:** everything about rivens in one place: getting and unveiling them, reading one, how names work, rolling and Kuva costs, trait locking, splicing, the end of Disposition, good stats and harmless negatives, trading and transmuting.
 - **App**
   - **Changelog:** what changed in each update, plus your version and a button to check for updates in the app.
   - **Our process:** exactly where Riven Scoper's data comes from and how every price, score and verdict is worked out.
