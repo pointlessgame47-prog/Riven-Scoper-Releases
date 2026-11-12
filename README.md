@@ -124,7 +124,7 @@ When you're signed in, this tab shows your warframe.market conversations.
   - **Acknowledgements:** credits for the data sources and open-source tools the app uses, and how visits are counted anonymously.
   - **Dev tools:** tools for the Riven Scoper team, including Back up and restore. They need the team's dev tools password.
 
-The Android back button steps back through the app: it closes the menu, leaves an open chat, and returns to the Weapon tab before it closes the app.
+The Android back button steps back through the app: it closes the menu, leaves an open chat, and returns to the Weapon tab before it closes the app. On the website, your browser's Back button does the same, and only leaves the site from the Weapon tab.
 
 ---
 
