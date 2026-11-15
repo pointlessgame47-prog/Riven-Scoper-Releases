@@ -96,7 +96,8 @@ Instead of typing a riven in, take a screenshot of it and let the app fill it in
 
 - It reads the weapon, stats and values, negative, rerolls, mastery rank and the riven's name. It fills in the form, and you check it before saving.
 - Screenshots work best: the riven's **Item Details** screen, or the riven on screen after cycling. A cropped picture of just the card works too. A photo of your monitor needs to be sharp and close.
-- Locked stats and Weapon Recoil curses (**+X% Weapon Recoil**) are read correctly.
+- Locked stats and Weapon Recoil curses (**+X% Weapon Recoil**) are read correctly. It also reads cards from the Warframe companion app and from rivengrid images.
+- One riven per picture: if a picture shows several, crop it to the one you want first.
 - The picture never leaves your device. The first time, the reader downloads about 7 MB.
 
 ### Price alerts
