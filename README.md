@@ -26,6 +26,8 @@ You only install by hand once. After that, the app updates itself:
 - The first time, Android asks you to turn on **Allow from this source** for Riven Scoper. Turn it on and come back to the app.
 - Your collection and settings stay after updating.
 
+**✦ What's new**, at the top of the home screen, shows what changed in the latest update, each with a **Show me** button. It opens by itself the first time after an update.
+
 You can also check for updates yourself under **☰ → Changelog**, which shows your version and a **Check for updates** button.
 
 ## Signing in (optional)
@@ -161,7 +163,6 @@ When you're signed in, this tab shows your warframe.market conversations.
     It refreshes every minute while the page is open.
   - **Riven guide:** everything about rivens in one place: getting and unveiling them, reading one, how names work, rolling and Kuva costs, trait locking, splicing, the end of Disposition, good stats and harmless negatives, status and elements, common myths, pricing, trading and transmuting.
 - **App**
-  - **What's new:** the changes in the latest update, each with a **Show me** button. It also opens by itself the first time after an update.
   - **Price alerts:** your alerts and their matches.
   - **Changelog:** what changed in each update, plus your version and a button to check for updates in the app.
   - **Our process:** exactly where Riven Scoper's data comes from and how every price, score and verdict is worked out.
