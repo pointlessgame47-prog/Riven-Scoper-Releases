@@ -90,6 +90,15 @@ With an asking price, you get a verdict, each with its own colour from green to 
 
 You also see similar listings. Tap **Load** on one to analyze that riven instead, or **WFM ↗** to see it on warframe.market. **Clear** empties every field.
 
+### Read a riven from a screenshot
+
+Instead of typing a riven in, take a screenshot of it and let the app fill it in. Use **📷 Fill in from a screenshot** in the Analyzer or the Add riven form, or **📷 Add from a screenshot** on the Collection page.
+
+- It reads the weapon, stats and values, negative, rerolls, mastery rank and the riven's name. It fills in the form, and you check it before saving.
+- Screenshots work best: the riven's **Item Details** screen, or the riven on screen after cycling. A cropped picture of just the card works too. A photo of your monitor needs to be sharp and close.
+- Locked stats and Weapon Recoil curses (**+X% Weapon Recoil**) are read correctly.
+- The picture never leaves your device. The first time, the reader downloads about 7 MB.
+
 ### Price alerts
 
 Get told when the riven you want is listed. Tap **Alert me** on a weapon or in the Analyzer, pick up to three stats and a price, and save.
