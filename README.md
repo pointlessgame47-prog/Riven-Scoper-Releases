@@ -48,15 +48,24 @@ When you first open the app, you can sign in with your warframe.market account o
 
 Type a weapon name and Riven Scoper looks at its current riven listings.
 
-- **The verdict** at the top: **Worth rolling**, **Promising**, **Maybe**, **Skip it** or **Not worth rolling**, with a short explanation.
+- **The summary card** at the top answers the question first:
+  - **The verdict:** **Worth rolling**, **Promising**, **Maybe**, **Not worth rolling** or **Not enough data**, with how confident it is and a short explanation (**More detail** has the rest).
+  - **The best seller:** the stat combination likely to sell for the most, and its likely sale price.
+  - **Five numbers:** the typical listing, sellers online, how fast this weapon's listings usually sell, this week's price change, and how its best rolls rank against every other weapon (**Top 10%**, **Bottom 30%**).
+  - Buttons that jump to any section, **Alert me** (see Price alerts below) and **Share**.
+  - While the live market check runs (up to about 90 seconds), the card says **Checking prices…**, so the verdict doesn't change while you read it. One progress bar shows how far along it is.
+- **How verdicts work:** once a day, Riven Scoper works out the likely sale price of every weapon's best rolls and ranks them all. Weapons in the top third count as strong prices, the bottom third as low. So verdicts keep up when the whole market rises or falls, and a weapon close to a line keeps yesterday's side, so it doesn't flip back and forth.
   - **Real demand check:** the verdict also uses DE's weekly in-game trade data. If a weapon has plenty of high listings but almost nobody actually buys its rivens, the app says **Not worth rolling** and explains why.
+- **Price over time:** the typical asking price of the weapon's listings, day by day.
 - **Real trade demand:** a small chart of how often the weapon's rolled rivens were traded in game over the last six weeks. 100 means the most-traded riven type that week.
-- **Listings summary:** how many listings there are, how many sellers are online, and the low, median and high prices.
-- **God roll and sell price:** the best stat combinations, the best negative to have, and a likely sale price.
-  - The app first shows a quick estimate. It then checks the live market for the top combinations, which takes about a minute, and shows the time remaining.
+- **Listings summary:** how many listings there are, how many sellers are online, the low, median and high prices, and how long listings usually stay up before they go (gone usually means sold, but not always).
+- **God roll and sell price:** the best stat combinations, highest likely sale price first, with the best negative to have.
+  - The app first shows a quick estimate, then checks the live market for the top combinations.
   - Results are kept for 6 hours. Tap **Recheck** to run it again.
 - **Rolls and Kuva:** your odds of hitting the god roll on each reroll, and roughly how much Kuva it takes.
 - **What each stat adds to the price:** which stats push the price up, and which negatives hurt it.
+- Long sections start folded; tap a heading to open or close it. On a PC the page uses two columns, and each section keeps its place.
+- With nothing typed in, the tab suggests this week's most-traded weapons to start with.
 
 **Tip:** the **Only listings made after the Disposition removal** checkbox hides old listings priced before the change. Leave it on for current prices.
 
@@ -64,13 +73,34 @@ Type a weapon name and Riven Scoper looks at its current riven listings.
 
 Check what a specific riven is worth, or whether someone's asking price is fair.
 
-1. Pick the weapon and its 2 or 3 positive stats. Start typing a name and tap a suggestion, or press **Enter** to take the first one.
+1. Pick the weapon and its 2 or 3 positive stats.
 2. Optionally add the negative stat, the reroll count and the asking price.
 3. Tap **Analyze riven**.
 
 You can also paste a warframe.market listing link and tap **Load listing**.
 
-With an asking price, you get a verdict: **STEAL**, **UNDERPRICED**, **FAIR**, **ELEVATED** or **OVERPRICED**. You also see similar listings, so you can compare. Tap **WFM ↗** on one to see it on warframe.market.
+You get the **fair price range**, and a **Where this price sits** chart: every similar listing as a dot on a price line, the fair range shaded, the typical price, and the asking price marked. It also says how fast rivens like it usually sell.
+
+With an asking price, you get a verdict, each with its own colour from green to red:
+- **STEAL:** far below similar rivens. Check it isn't a typo or a bait listing.
+- **UNDERPRICED:** below the fair range.
+- **GOOD PRICE**, **FAIR** or **HIGH END:** the cheap, middle or top part of the fair range. HIGH END suggests an offer when the price is well above typical.
+- **ELEVATED:** up to 30% above the range, worth negotiating.
+- **OVERPRICED:** well above it.
+
+You also see similar listings. Tap **Load** on one to analyze that riven instead, or **WFM ↗** to see it on warframe.market. **Clear** empties every field.
+
+### Price alerts
+
+Get told when the riven you want is listed. Tap **Alert me** on a weapon or in the Analyzer, pick up to three stats and a price, and save.
+
+- While Riven Scoper is open, it checks every 2 minutes and whenever you come back to it. New matches pop up as a message and are marked **New** under **🔔 Price alerts** at the top.
+- You can have up to 25 alerts. When you're signed in, they're saved to your account with your Collection.
+- There are no phone notifications yet: alerts only check while the app or website is open.
+
+### Share a weapon
+
+Tap **Share** on a weapon to copy a link like `rivenscoper.com/w/rubico`. It opens that weapon on the website, or straight in the Android app if it's installed.
 
 ### Trends: what the market is doing
 
@@ -82,8 +112,10 @@ With an asking price, you get a verdict: **STEAL**, **UNDERPRICED**, **FAIR**, *
 ### Collection: your rivens
 
 - **Saved to your account:** while you're signed in, your Collection (owned weapons, every riven you've added or saved, favorites and listing records) and the rivens you save in the Analyzer are saved to your warframe.market account on the Riven Scoper server, encrypted. Sign in on another phone or on the website and it's all there. If you change things on two devices, both changes are kept. **Your account → How saving and importing work** lets you turn saving off for a device or delete the saved copy.
-- Browse every weapon that can have a riven. Tick the weapons you own, star your favorites, and use the filters to narrow the list.
-- **Live on WFM** lists every riven you have listed on warframe.market right now, each with a **WFM ↗** button. Every riven shows where it stands: **Live** with its price and a gold edge, **Hidden** (listed but hidden from buyers), **In app only**, **Sold** or **Listing closed**. Deleting a riven that's still listed takes the listing down too: tap **Delete**, then tap again to remove the listing and delete. Weapons show how many of their rivens are live, and **Filter → Listed on WFM** narrows the list to them.
+- **What your rivens are worth:** a card at the top adds up the fair range of every riven you've saved and names your most valuable one.
+- **Compare two rivens** side by side: stats, fair range, how fast they sell and demand, with the better one marked.
+- Browse every weapon that can have a riven. Your own weapons are listed first (**Show all** brings back the rest). Tap any weapon to add a riven; the tick marks the ones you own. Star your favorites and use the filters to narrow the list. On a PC the list uses two columns.
+- **Live on WFM** lists every riven you have listed on warframe.market right now, each with a **WFM ↗** button and a price check: if it's priced well above or below similar rivens, the app suggests a price, and **Use** changes your listing to it (tap twice to confirm). Every riven shows where it stands: **Live** with its price and a gold edge, **Hidden** (listed but hidden from buyers), **In app only**, **Sold** or **Listing closed**. Deleting a riven that's still listed takes the listing down too: tap **Delete**, then tap again to remove the listing and delete. Weapons show how many of their rivens are live, and **Filter → Listed on WFM** narrows the list to them.
 - **Import from warframe.market**, at the top, brings in the rivens you have listed on warframe.market when you're signed in. Their weapons are marked as owned, and each riven is added with its stats, name, rerolls, rank, mastery, polarity, price and listing, ready to reprice or mark sold. It runs when you open the tab, and **Import my listings now** runs it again. Rivens you've sold or taken down on warframe.market are marked as removed.
 - Tap **Add riven** to save a riven you have: its stats, values and reroll count. You don't need to type its name: pick the stats and the app lists every name they can make, most likely first, or choose **Other** to type it. Each saved riven gets its own price check.
 - **Selling, when signed in:**
@@ -119,19 +151,21 @@ When you're signed in, this tab shows your warframe.market conversations.
     It refreshes every minute while the page is open.
   - **Riven guide:** everything about rivens in one place: getting and unveiling them, reading one, how names work, rolling and Kuva costs, trait locking, splicing, the end of Disposition, good stats and harmless negatives, status and elements, common myths, pricing, trading and transmuting.
 - **App**
+  - **What's new:** the changes in the latest update, each with a **Show me** button. It also opens by itself the first time after an update.
+  - **Price alerts:** your alerts and their matches.
   - **Changelog:** what changed in each update, plus your version and a button to check for updates in the app.
   - **Our process:** exactly where Riven Scoper's data comes from and how every price, score and verdict is worked out.
   - **Acknowledgements:** credits for the data sources and open-source tools the app uses, and how visits are counted anonymously.
   - **Dev tools:** tools for the Riven Scoper team, including Back up and restore. They need the team's dev tools password.
 
-The Android back button steps back through the app: it closes the menu, leaves an open chat, and returns to the Weapon tab before it closes the app. On the website, your browser's Back button does the same, and only leaves the site from the Weapon tab.
+The Android back button steps back through the app: it closes a pop-up or the menu, leaves an open chat, and returns to the Weapon tab before it closes the app. On the website, the browser's Back button does the same.
 
 ---
 
 ## Good to know
 
-- **Prices are asking prices.** warframe.market listings show what sellers want, not what they got. The app removes stale and joke listings (like 99,999p) and leans on cautious estimates, but treat prices as a guide. Real high-end listings are kept even on weapons flooded with 10p rivens.
-- **PC data.** Prices, trade demand and World State are for the PC platform.
+- **Prices are asking prices.** warframe.market listings show what sellers want, not what they got. The app removes stale and bait listings and leans on cautious estimates, but treat prices as a guide.
+- **Prices use every platform.** Listings from all platforms on warframe.market count toward prices. Trade demand comes from DE's data, which is for PC trades, and World State is for PC.
 - **Be patient with the market check.** warframe.market limits how often apps can search, so the app paces its requests to stay a good neighbour.
 
 ## Troubleshooting
