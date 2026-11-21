@@ -108,7 +108,24 @@ Get told when the riven you want is listed. Tap **Alert me** on a weapon or in t
 
 - While Riven Scoper is open, it checks every 2 minutes and whenever you come back to it. New matches pop up as a message and are marked **New** under **🔔 Price alerts** at the top.
 - You can have up to 25 alerts. When you're signed in, they're saved to your account with your Collection.
-- There are no phone notifications yet: alerts only check while the app or website is open.
+
+### Notifications and summaries
+
+Turn on **notifications** at the top of **🔔 Price alerts** to be told about new matches **even while Riven Scoper is closed**:
+
+- **Android app:** tap **Turn on for this phone** and allow notifications when Android asks.
+- **Website:** works in Chrome, Edge and Firefox on PC and Android. On **iPhone and iPad**, first add rivenscoper.com to your Home Screen (**Share → Add to Home Screen**), open it from there, then turn notifications on.
+- You only hear about listings posted, or lowered to your price, after you made the alert: each one once, at most one notification every 5 minutes. Tapping a notification opens your alerts.
+- **Send a test** shows what they look like.
+
+**Summary:** choose **Daily** or **Weekly** and a time, and get a short notification with:
+- what your Collection is worth and how that changed since the last one;
+- how asking prices moved for your weapons;
+- how many listings matched your alerts.
+
+Tap it to see the full summary, or tap **Preview** to get one now. No summary is sent when there's nothing to report.
+
+**Privacy:** our server keeps only what notifications need: a random device number, the push address your phone or browser gives it, your alerts, your summary settings and time zone, and the weapons and stats of your Collection's rivens. None of it is linked to your warframe.market account. Turning notifications off deletes it straight away; it's also deleted after 90 days without opening Riven Scoper. warframe.market messages don't send notifications.
 
 ### Share a weapon
 
@@ -145,7 +162,7 @@ When you're signed in, this tab shows your warframe.market conversations.
 - A badge on the tab shows unread messages. A pop-up appears when someone messages you while you're on another tab; tap it to open the chat.
 - **Leave** removes a conversation. Tap twice to confirm.
 - You can't start new conversations here yet. Start them on warframe.market and they'll show up in the app.
-- Messages only arrive while the app is open. There are no phone notifications yet.
+- Messages only arrive while the app is open, and don't send notifications. To be told about new messages while Riven Scoper is closed, use warframe.market itself.
 
 ---
 
@@ -163,7 +180,7 @@ When you're signed in, this tab shows your warframe.market conversations.
     It refreshes every minute while the page is open.
   - **Riven guide:** everything about rivens in one place: getting and unveiling them, reading one, how names work, rolling and Kuva costs, trait locking, splicing, the end of Disposition, good stats and harmless negatives, status and elements, common myths, pricing, trading and transmuting.
 - **App**
-  - **Price alerts:** your alerts and their matches.
+  - **Price alerts:** your alerts and their matches, and notification and summary settings.
   - **Changelog:** what changed in each update, plus your version and a button to check for updates in the app.
   - **Our process:** exactly where Riven Scoper's data comes from and how every price, score and verdict is worked out.
   - **Acknowledgements:** credits for the data sources and open-source tools the app uses, and how visits are counted anonymously.
