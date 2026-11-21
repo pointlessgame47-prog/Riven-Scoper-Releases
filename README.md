@@ -136,7 +136,7 @@ Tap **Share** on a weapon to copy a link like `rivenscoper.com/w/rubico`. It ope
 - **Rankings:** weapons ranked over 24 hours, 7 days or 30 days, by most listings, top gainers, top losers, most expensive or cheapest. Gainers and losers compare listings posted in that period with the period before, so the 7-day and 30-day changes appear once Riven Scoper has watched the market long enough, and the tab shows the date they start.
 - **Popular weapons:** recent listings for the 15 weapons whose rivens DE recorded the most in-game trades for last week, with each weapon's demand score. The menu at the top right sorts them by newest, price or demand.
 - **Most recent listings:** the newest rivens posted on warframe.market. This refreshes every minute while you are looking at it. Tick **Popular weapons only** to see just those 15 weapons.
-- Each listing in Popular weapons and Most recent listings has a **WFM ↗** button that opens it on warframe.market, and an **Analyze weapon** link that checks that weapon here.
+- Each listing in Popular weapons and Most recent listings has a **Load** button that checks that exact riven in the Analyzer, a **WFM ↗** button that opens it on warframe.market, and an **Analyze weapon** link that checks that weapon here.
 
 ### Collection: your rivens
 
