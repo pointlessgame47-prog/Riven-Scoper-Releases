@@ -172,7 +172,7 @@ When you're signed in, this tab shows your warframe.market conversations.
 - **Miscellaneous tools**
   - **World State:** what's happening in Warframe right now (PC):
     - day/night and other cycles for Cetus, Orb Vallis, Cambion Drift and Duviri;
-    - the current **arbitration** (mission, node, enemy and time left) and the next three, from browse.wf's schedule. Tap **🔔 Arbitration alerts** to pick mission types (Defense includes Dark Sector Defense) and, optionally, enemies, and get a notification when a matching arbitration starts (you can also set these under **🔔 Alerts**). This uses the same notifications as price alerts. **Show more** opens the full schedule, a week at a time and grouped by day in your time zone, with a filter for one mission type or only your alert types;
+    - the current **arbitration** (mission, node, enemy and time left) and the next three, from browse.wf's schedule. Tap **🔔 Arbitration alerts** to pick mission types (Defense includes Dark Sector Defense) and, optionally, specific tiles of each type (pick none to hear about every tile of that type) and enemies, and get a notification when a matching arbitration starts (you can also set these under **🔔 Alerts**). This uses the same notifications as price alerts. **Show more** opens the full schedule, a week at a time and grouped by day in your time zone, with a filter for one mission type or only your alert types;
     - today's Sortie and this week's Archon Hunt;
     - Void Fissures by relic tier, with Steel Path and Void Storm tabs;
     - when Baro Ki'Teer arrives, and what he's selling;
