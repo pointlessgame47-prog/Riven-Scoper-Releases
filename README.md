@@ -125,7 +125,7 @@ Turn on **notifications** at the top of **🔔 Price alerts** to be told about n
 
 Tap it to see the full summary, or tap **Preview** to get one now. No summary is sent when there's nothing to report.
 
-**Privacy:** our server keeps only what notifications need: a random device number, the push address your phone or browser gives it, your alerts, your summary settings and time zone, and the weapons and stats of your Collection's rivens. None of it is linked to your warframe.market account. Turning notifications off deletes it straight away; it's also deleted after 90 days without opening Riven Scoper. warframe.market messages don't send notifications.
+**Privacy:** our server keeps only what notifications need: a random device number, the push address your phone or browser gives it, your price and arbitration alerts, your summary settings and time zone, and the weapons and stats of your Collection's rivens. None of it is linked to your warframe.market account. Turning notifications off deletes it straight away; it's also deleted after 90 days without opening Riven Scoper. warframe.market messages don't send notifications.
 
 ### Share a weapon
 
@@ -172,6 +172,7 @@ When you're signed in, this tab shows your warframe.market conversations.
 - **Miscellaneous tools**
   - **World State:** what's happening in Warframe right now (PC):
     - day/night and other cycles for Cetus, Orb Vallis, Cambion Drift and Duviri;
+    - the current **arbitration** (mission, node, enemy and time left) and the next three, from browse.wf's schedule. Tap **🔔 Arbitration alerts** to pick mission types (Defense includes Dark Sector Defense) and, optionally, enemies, and get a notification when a matching arbitration starts. This uses the same notifications as price alerts;
     - today's Sortie and this week's Archon Hunt;
     - Void Fissures by relic tier, with Steel Path and Void Storm tabs;
     - when Baro Ki'Teer arrives, and what he's selling;
@@ -209,4 +210,4 @@ The Android back button steps back through the app: it closes a pop-up or the me
 
 ## Credits
 
-Data from [warframe.market](https://warframe.market), and Digital Extremes' public world state and weekly riven trade data. Node and mission names come from WFCD's open-source data. The app is built with Capacitor. The full list is in the app under **☰ → Acknowledgements**.
+Data from [warframe.market](https://warframe.market), and Digital Extremes' public world state and weekly riven trade data. Node and mission names come from WFCD's open-source data. The arbitration schedule comes from [browse.wf](https://browse.wf/arbys). The app is built with Capacitor. The full list is in the app under **☰ → Acknowledgements**.
