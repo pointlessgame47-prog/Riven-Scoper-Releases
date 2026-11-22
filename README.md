@@ -106,12 +106,12 @@ Instead of typing a riven in, take a screenshot of it and let the app fill it in
 
 Get told when the riven you want is listed. Tap **Alert me** on a weapon or in the Analyzer, pick up to three stats and a price, and save.
 
-- While Riven Scoper is open, it checks every 2 minutes and whenever you come back to it. New matches pop up as a message and are marked **New** under **🔔 Price alerts** at the top.
+- While Riven Scoper is open, it checks every 2 minutes and whenever you come back to it. New matches pop up as a message and are marked **New** under **🔔 Alerts** at the top.
 - You can have up to 25 alerts. When you're signed in, they're saved to your account with your Collection.
 
 ### Notifications and summaries
 
-Turn on **notifications** at the top of **🔔 Price alerts** to be told about new matches **even while Riven Scoper is closed**:
+Turn on **notifications** at the top of **🔔 Alerts** to be told about new matches **even while Riven Scoper is closed**:
 
 - **Android app:** tap **Turn on for this phone** and allow notifications when Android asks.
 - **Website:** works in Chrome, Edge and Firefox on PC and Android. On **iPhone and iPad**, first add rivenscoper.com to your Home Screen (**Share → Add to Home Screen**), open it from there, then turn notifications on.
@@ -172,7 +172,7 @@ When you're signed in, this tab shows your warframe.market conversations.
 - **Miscellaneous tools**
   - **World State:** what's happening in Warframe right now (PC):
     - day/night and other cycles for Cetus, Orb Vallis, Cambion Drift and Duviri;
-    - the current **arbitration** (mission, node, enemy and time left) and the next three, from browse.wf's schedule. Tap **🔔 Arbitration alerts** to pick mission types (Defense includes Dark Sector Defense) and, optionally, enemies, and get a notification when a matching arbitration starts. This uses the same notifications as price alerts;
+    - the current **arbitration** (mission, node, enemy and time left) and the next three, from browse.wf's schedule. Tap **🔔 Arbitration alerts** to pick mission types (Defense includes Dark Sector Defense) and, optionally, enemies, and get a notification when a matching arbitration starts (you can also set these under **🔔 Alerts**). This uses the same notifications as price alerts. **Show more** opens the full schedule, a week at a time and grouped by day in your time zone, with a filter for one mission type or only your alert types;
     - today's Sortie and this week's Archon Hunt;
     - Void Fissures by relic tier, with Steel Path and Void Storm tabs;
     - when Baro Ki'Teer arrives, and what he's selling;
@@ -181,7 +181,7 @@ When you're signed in, this tab shows your warframe.market conversations.
     It refreshes every minute while the page is open.
   - **Riven guide:** everything about rivens in one place: getting and unveiling them, reading one, how names work, rolling and Kuva costs, trait locking, splicing, the end of Disposition, good stats and harmless negatives, status and elements, common myths, pricing, trading and transmuting.
 - **App**
-  - **Price alerts:** your alerts and their matches, and notification and summary settings.
+  - **Alerts:** notification and summary settings, your price alerts and their matches, and your arbitration alert choices.
   - **Changelog:** what changed in each update, plus your version and a button to check for updates in the app.
   - **Our process:** exactly where Riven Scoper's data comes from and how every price, score and verdict is worked out.
   - **Acknowledgements:** credits for the data sources and open-source tools the app uses, and how visits are counted anonymously.
